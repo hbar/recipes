@@ -1,9 +1,6 @@
 Vegetarian
 ==========
 
-
-
-
 Kidney Bean Rajma
 -----------------
 *Source: Atma Kanojia (2013)*
@@ -18,7 +15,7 @@ Ingredients and instructions:
 Sambar
 -------
 
-*Source: Kiranbot*
+*Source: Kiranbot (2013)*
 
 Ingredients and Instructions:
 1. wash and soak the pappu (dal). Pressure cook it (2-3 whistles, for kandhi pappu, 1-2 for pesara pappu).
@@ -167,14 +164,14 @@ Ingredients and instructions:
 Indian food definitions
 =======================
 
-mirapakai bajji = deep fried chili (telugu)
-mirch pakora = deep fried chili (hindi)
-mirch, mirapakkai = chili
-[ingredient] pakora, [ingredient] bajji = deep fried things
-aloo tikki chat = fried potato chat 
-pani puri, golgoppa (mumbai) 
-punjabi dhaba: dahi puri
-dahi papri = yogurt + flattened puris
-dahi = yogurt
+- mirapakai bajji = deep fried chili (telugu)
+- mirch pakora = deep fried chili (hindi)
+- mirch, mirapakkai = chili
+- {ingredient} pakora, {ingredient} bajji = deep fried things
+- aloo tikki chat = fried potato chat 
+- pani puri, golgoppa (mumbai) 
+- dahi = yogurt
+- dahi puri =  yogurt + inflated puri
+- dahi papri = yogurt + flattened puri
 
 

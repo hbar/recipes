@@ -9,7 +9,7 @@ Ingredients and instructions:
 - fry 1 grated onion with grated thai chilies and chopped ginger in the pot
 - puree 1-2 tomatoes and continue to fry
 - add kidney beans, mash up 1/4 of them to thicken the sauce
-- add salt, turmeric, and Madrasi masala(optional)
+- add salt, turmeric, and Madrasi masala(optional)... or sambar powder
 - simmer
 
 Sambar

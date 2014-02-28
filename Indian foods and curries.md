@@ -20,10 +20,9 @@ Sambar
 Ingredients and Instructions:
 1. wash and soak the pappu (dal). Pressure cook it (2-3 whistles, for kandhi pappu, 1-2 for pesara pappu).
 
-	- 1-1/2 cups Dal (pappu in Telugu), use either. Kandhi pappu is preferred. 
-	- pesara pappu (moong dal): small, pale yellow, cooks quickly. doesn't really work for sambar. I think it makes a killer tomato dal, though.
-
-	- kandhi pappu (toor dal): bigger, rich yellow. traditional sambhar/rasam dal.
+ - 1-1/2 cups Dal (pappu in Telugu), use either. Kandhi pappu is preferred. 
+ - pesara pappu (moong dal): small, pale yellow, cooks quickly. doesn't really work for sambar. I think it makes a killer tomato dal, though.
+ - kandhi pappu (toor dal): bigger, rich yellow. traditional sambhar/rasam dal.
 
 2. Soak a ball of tamarind in water (about 1-2 cubic inches). To do this quickly: microwave the tamarind in enough water to cover it, and squish it out with your hand. Strain the resulting stuff through a tea strainer or something, unless you like seeds and fiber stuck in your teeth.
 
@@ -65,7 +64,7 @@ Ingredients and instructions:
 
 Kadai Paneer
 ----------------
-*source: Anita Gajjala / Inernetz (2012)*
+*source: Anita Gajjala / Internetz (2012)*
 
 `http://www.cookingandme.com/2010/08/kadai-paneer-recipe-step-by-step.html`
 

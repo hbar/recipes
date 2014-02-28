@@ -3,6 +3,18 @@ Vegetarian
 
 Kidney Bean Rajma
 -----------------
+*Source: haroldbot (2014)*
+
+Ingredients and instructions:
+- fry 2 finely chopped onions with thai chilies and 1/2 a clove of chopped fresh garlic in the pot with olive oil
+- carmelize onions and garlic
+- add turmeric and sambar powder
+- add 1-2 tomatoes finely chopped and continue to fry
+- add 1 large can of kidney beans
+- simmer
+
+Kidney Bean Rajma
+-----------------
 *Source: Atma Kanojia (2013)*
 
 Ingredients and instructions:

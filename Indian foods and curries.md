@@ -3,13 +3,25 @@ Vegetarian
 
 Kidney Bean Rajma
 -----------------
+*Source: haroldbot (2014)*
+
+Ingredients and instructions:
+- fry 2 finely chopped onions with thai chilies and 1/2 a clove of chopped fresh garlic in the pot with olive oil
+- carmelize onions and garlic
+- add turmeric and sambar powder
+- add 1-2 tomatoes finely chopped and continue to fry
+- add 1 large can of kidney beans
+- simmer
+
+Kidney Bean Rajma
+-----------------
 *Source: Atma Kanojia (2013)*
 
 Ingredients and instructions:
 - fry 1 grated onion with grated thai chilies and chopped ginger in the pot
 - puree 1-2 tomatoes and continue to fry
 - add kidney beans, mash up 1/4 of them to thicken the sauce
-- add salt, turmeric, and Madrasi masala(optional)
+- add salt, turmeric, and Madrasi masala(optional)... or sambar powder
 - simmer
 
 Sambar
@@ -20,10 +32,9 @@ Sambar
 Ingredients and Instructions:
 1. wash and soak the pappu (dal). Pressure cook it (2-3 whistles, for kandhi pappu, 1-2 for pesara pappu).
 
-	- 1-1/2 cups Dal (pappu in Telugu), use either. Kandhi pappu is preferred. 
-	- pesara pappu (moong dal): small, pale yellow, cooks quickly. doesn't really work for sambar. I think it makes a killer tomato dal, though.
-
-	- kandhi pappu (toor dal): bigger, rich yellow. traditional sambhar/rasam dal.
+ - 1-1/2 cups Dal (pappu in Telugu), use either. Kandhi pappu is preferred. 
+ - pesara pappu (moong dal): small, pale yellow, cooks quickly. doesn't really work for sambar. I think it makes a killer tomato dal, though.
+ - kandhi pappu (toor dal): bigger, rich yellow. traditional sambhar/rasam dal.
 
 2. Soak a ball of tamarind in water (about 1-2 cubic inches). To do this quickly: microwave the tamarind in enough water to cover it, and squish it out with your hand. Strain the resulting stuff through a tea strainer or something, unless you like seeds and fiber stuck in your teeth.
 
@@ -65,7 +76,7 @@ Ingredients and instructions:
 
 Kadai Paneer
 ----------------
-*source: Anita Gajjala / Inernetz (2012)*
+*source: Anita Gajjala / Internetz (2012)*
 
 `http://www.cookingandme.com/2010/08/kadai-paneer-recipe-step-by-step.html`
 

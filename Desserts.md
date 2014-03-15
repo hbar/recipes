@@ -1,32 +1,5 @@
-Banana Bread
-------------
-*Source: Anj Chang (2014)* 
-
-###Ingredients:###
-- 1 cup sugar
-- 1 stick butter
-- 2 large eggs
-- 3 bananas (really ripe)
-- 1 tbsp milk
-- 1 tbsp cinnamon
-- 2 cups flour
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 tsp baking powder
-- optional (dried fruits and nuts, orange liqueur)
-
-###Instructions###
-1. put together dried fruits, nuts chopped ~1/2 cup macerated in orange liqueur while you make the batter
-2. cream together sugar, butter, eggs added slowly
-3. in another bowl, mash bananas, milk, cinnamon
-3. in a third bowl, mix flour, baking soda, salt, baking powder
-4. add the bananas to the creamed mixture, stirring slowly
-5. add the flour to the wet mixture, stirring slowly until flour disappears
-6. fold in the nuts
-
-Sometimes I get lazy and just mix everything in one bowl, but things do taste better if you separately cream the sugar/butter first
-Bake in an oven at 350 F for 1 hour (until done when toothpick comes out)
-
+Desserts:
+=========
 
 Tiramisu Cake
 -------------

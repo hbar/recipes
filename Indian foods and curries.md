@@ -6,10 +6,12 @@ Kidney Bean Rajma
 *Source: haroldbot (2014)*
 
 Ingredients and instructions:
-- fry 2 finely chopped onions with thai chilies and 1/2 a clove of chopped fresh garlic in the pot with olive oil
+- fry 2 finely chopped onions with green chilies and lots of chopped garlic in the pot with olive oil
 - carmelize onions and garlic
-- add turmeric and sambar powder
+- add sambar powder or Madras rasam powder
+- add tumeric and salt
 - add 1-2 tomatoes finely chopped and continue to fry
+- a small can of fancy crushed tomatoes can be used instead
 - add 1 large can of kidney beans
 - simmer
 

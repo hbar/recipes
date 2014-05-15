@@ -11,7 +11,9 @@ Ingredients and instructions:
 - add sambar powder or Madras rasam powder
 - add tumeric and salt
 - add 1-2 tomatoes finely chopped and continue to fry
-- a small can of fancy crushed tomatoes can be used instead
+- a small can of fancy crushed tomatoes can be used ins
+- add water to increase the liquid before everything starts to burn
+- add a cubed potato for filler and simmer
 - add 1 large can of kidney beans
 - simmer
 

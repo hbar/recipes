@@ -1,6 +1,31 @@
 Vegetarian
 ==========
 
+Chana masala
+-----
+*source:kiranbot (2014)*
+*source 2: [internetz](https://www.youtube.com/watch?v=pDWfDUi108U&feature=kp)*
+
+Ingredients:
+- 1-2 finely chopped onions
+- 1-2 diced tomatoes
+- chopped garlic, ginger, chili
+- whole garam masala (corriander, cumin, star anise, bay leaf)
+- chana masala
+  - available at an Indian grocery. Look for something with amchur (dry mango powder) or anardana (pomegranate seed powder), like Badshah.
+  - the tanginess of the amchur or anardana is what really makes the dish.
+- Large can of garbanzo beans (or soak + pressure cook an equivalent amount)
+
+Instructions:
+1. Heat some oil and add the cumin and whole garam masala. Let the spices brown.
+2. Add the finely chopped onion. Let the onion brown -- don't keep stirring it, Kiran!
+3. Add the chili, garlic, and ginger. Add a pinch of powdered garam masala and ~2 spoons of the channa masala powder. Mix. You'll see the onions starting to really fall apart now.
+4. Add the diced tomatoes. Let them cook until the oil starts to bubble up around the edges. Be patient -- the oil bubbling is how you know your spices are perfectly cooked and the tomato is totally mushy.
+5. Add the channa. Let that cook for however long. Mash up some of the channa with a spoon -- this will add some thickness to the gravy.
+6. If you're feeling fancy, garnish with cilantro.
+EAT EAT EAT
+
+
 Kidney Bean Rajma
 -----------------
 *Source: haroldbot (2014)*

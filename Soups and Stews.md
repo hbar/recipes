@@ -25,3 +25,12 @@ Ingredients and instructions... I garrrronnntee
 5. simmer for a while (>30 minutes)
 6. Add chopped okra about 30 minutes before eating (to prevent it from getting too soft)
 
+Fancy pea soup
+-------------
+*source: N. Peek*
+
+Ingredients: 
+1. blend green peas, spinach, mint
+2. Add chopped garlic and horseradish mixed with yogurt.
+3. add chopped watercrest
+

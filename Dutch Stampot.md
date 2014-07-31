@@ -1,6 +1,6 @@
 Zuurkool recept (Sauerkraut recipe)
 ----------------------------------
-*source: `http://bitterballenbruid.wordpress.com/2014/02/26/zuurkool-recept/`
+*source:* `http://bitterballenbruid.wordpress.com/2014/02/26/zuurkool-recept/`
 ###Ingredients###
 - Potatoes (Maris Piper or similar are best)
 - Jar / packet of Zuurkool (if you’re in England, you can probably only get a jar, if in the Netherlands there will be packets in the supermarket near the potatoes)

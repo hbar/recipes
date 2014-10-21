@@ -1,5 +1,5 @@
-American Soups and Stews
-========================
+Soups and Stews
+===============
 
 Gumbo 
 ---------

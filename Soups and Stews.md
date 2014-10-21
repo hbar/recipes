@@ -43,7 +43,7 @@ Ingredients:
 
 3. add chopped watercrest
 
-Borsh
+Borscht
 ------
 *source: M. Short*
 
@@ -63,6 +63,6 @@ Borsh
 
 4. Add cabbage and cook for 15 more minutes
 
-5. Eat with sourcream, dill, and black pepper 
+5. Eat with sour cream, dill, and black pepper 
 
 

@@ -21,5 +21,5 @@ Chili Oil:
 4. When liquid is almost gone, add half a jar full of crushed chili flakes (use chili oil container for measurement).
 5. Sprinkle with soy sauce and continue to heat for a few minutes.
 6. Add half a jar of olive oil. Add extra salt if desired (a teaspoon or so).
-7. Heat chili oil on low and stir for 15 minutes while watching to make sure chili and garlic are bubbling gently without not burning.
+7. Heat chili oil on low and stir for 15 minutes while watching to make sure chili and garlic are bubbling gently without burning.
 

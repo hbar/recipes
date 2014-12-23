@@ -9,13 +9,14 @@ Ingredients:
 - garlic
 - olive oil
 - can of anchovies
+- optional: kalamata olives, capers
 - red chili flakes
 - 1 can of whole, peeled tomatoes (crushed works too)
 
 Directions:
-1. fry 1/3 to 1/2 a clove of garlic in more olive oil than you would expect you should put in sauce.
+1. fry 4-5 cloves of garlic in more olive oil than you would expect you should put in sauce.
 
-2. throw in the anchovies anchovies and red chili flakes 
+2. throw in the anchovies anchovies and red chili flakes. Add the optional olives and capers, for extra salty bits.
 
 3. then dice a can of whole, peeled tomatoes and put them in
 

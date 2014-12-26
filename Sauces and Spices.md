@@ -22,3 +22,32 @@ Chili Oil:
 6. Add half a jar of olive oil. Add extra salt if desired (a teaspoon or so).
 7. Heat chili oil on low and stir for 15 minutes while watching to make sure chili and garlic are bubbling gently without burning.
 
+
+Karivepaku Podi  (Spiced Curry Leaf Powder):
+--------------------------------------------
+
+* source: Krishna Priya Bhattaram (2014)*
+
+### Instructions:###
+
+1. Roast the following with a little sesame oil
+  - red chillies
+  - coriander seeds
+  - very little methi seeds 
+  - chana dal
+  - urad dal
+  - black pepper
+
+2. Turn off burner and add curry leaves to make them little dry
+
+3. Mix with the following:
+  - garlic
+  - turmeric
+  - salt
+
+4. Grind into powder
+
+
+
+
+

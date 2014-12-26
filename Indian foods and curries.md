@@ -11,7 +11,7 @@ Ingredients:
 - 1-2 diced tomatoes
 - chopped garlic, ginger, chili
 - whole garam masala (corriander, cumin, star anise, bay leaf)
-- chana masala
+- channa masala
   - available at an Indian grocery. Look for something with amchur (dry mango powder) or anardana (pomegranate seed powder), like Badshah.
   - the tanginess of the amchur or anardana is what really makes the dish.
 - Large can of garbanzo beans (or soak + pressure cook an equivalent amount)

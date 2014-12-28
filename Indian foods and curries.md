@@ -65,7 +65,8 @@ Sambar
 
 *Source: Kiranbot (2013)*
 
-Ingredients and Instructions:
+###Ingredients and Instructions:###
+
 1. wash and soak the pappu (dal). Pressure cook it (2-3 whistles, for kandhi pappu, 1-2 for pesara pappu).
 
  - 1-1/2 cups Dal (pappu in Telugu), use either. Kandhi pappu is preferred. 
@@ -116,7 +117,8 @@ Kadai Paneer
 
 `http://www.cookingandme.com/2010/08/kadai-paneer-recipe-step-by-step.html`
 
-Ingredients:
+###Ingredients:###
+
 - 2 cups paneer, cubed
 - Half a capsicum / green bell pepper, cubed
 - 1 large onion
@@ -135,7 +137,7 @@ Ingredients:
 - Chopped coriander leaves to garnish
 
 
-How to make Kadai Paneer:
+###Instructions:###
 
 1. Grind the onion along with the green chillies. Heat oil and fry this paste for 2-3 mins.
 
@@ -167,6 +169,7 @@ Cooking time: 25 minutes
 Serves 4
 
 ###INGREDIENTS:###
+
 - 2 cups of cubed paneer or tofu
 - 1 cup of sliced onions
 - 2 tsp of ginger garlic paste
@@ -249,13 +252,14 @@ Curry Chicken
 ---------------------
 *Source: Maria Mascarenhas (2013)*
 
-Ingredients and instructions:
--Marinate 1kg chicken for 1 hour with water, salt, 2 cloves, crushed garlic
--Fry until crispy on the outside, then slice
--Fry garam masala ingredients: cloves, black pepper, cardamom, cumin, bay leaves, 1 inch of ginger, 2 cloves of garlic
--Add chopped onions and fry.
--Add tomatoes or puree, then add turmeric, cumin, coriander powder.
--Simmer
+###Ingredients and instructions:###
+
+- Marinate 1kg chicken for 1 hour with water, salt, 2 cloves, crushed garlic
+- Fry until crispy on the outside, then slice
+- Fry garam masala ingredients: cloves, black pepper, cardamom, cumin, bay leaves, 1 inch of ginger, 2 cloves of garlic
+- Add chopped onions and fry.
+- Add tomatoes or puree, then add turmeric, cumin, coriander powder.
+- Simmer
 
 
 Indian food definitions

@@ -26,7 +26,7 @@ Chili Oil:
 Karivepaku Podi  (Spiced Curry Leaf Powder):
 --------------------------------------------
 
-* source: Krishna Priya Bhattaram (2014) *
+*source: Krishna Priya Bhattaram (2014)*
 
 ### Instructions:###
 

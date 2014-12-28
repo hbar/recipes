@@ -48,54 +48,5 @@ Karivepaku Podi  (Spiced Curry Leaf Powder):
 4. Grind into powder
 
 
-Goru Chikkudu kayya curry (with tamarind and jaggery)
-----------------------------------------------------
-
-* source: Kiranmayi and Krishna Priya Bhattaram (2014) *
-
-###Ingredients:###
-- Goru Chikkudukayya
-- mustard seeds
-- urad dal
-- red chilies
-- turmuric
-- salt
-- tamarind
-- jaggery
-
-###Instructions:###
-1. Boil the chopped beans with turmeric and salt.
-2. Make the tadka -- add the mustard seeds to oil until they splatter. Then add the urad dal and dried red chilies.
-3. Add the beans. Once they're cooked through, add the tamarind and jaggery to taste.
-4. Eat eat eat (preferably with hot rice and ghee).
-
-
-Sundal
-------
-
-* source: Kiranmayi and Krishna Priya Bhattaram (2014) *
-
-###Ingredients:###
-
-- channa/yellow peas/pigeon peas/whatever
-- mustard seeds
-- green chlies
-- asafoetida
-- salt
-- curry leaves
-- dried grated coconut (optional)
-- shredded raw green mango (optional)
-
-Recipe
-
-1. boil the channa/beans/whatever
-2. Make the tadka
-  - add the mustard seeds to oil until they splatter.
-  - Then add the asafoetida, curry leaves, green chilies, and optional coconut.
-3. Add the soaked/boiled channa.
-4. Add raw green mango, if desired.
-
-
-
 
 

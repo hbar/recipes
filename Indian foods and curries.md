@@ -1,5 +1,5 @@
-Vegetarian
-==========
+Indian foods and curries
+========================
 
 Chana masala
 -----
@@ -166,21 +166,21 @@ Preparation time: 10 minutes
 Cooking time: 25 minutes
 Serves 4
 
-INGREDIENTS:
-2 cups of cubed paneer or tofu
-1 cup of sliced onions
-2 tsp of ginger garlic paste
-1 tbsp of coriander powder
-1 tsp of garam masala
-1 tsp of red chilli powder (adjust to your taste)
-1 tbsp of canned tomato paste (or 1 cup tomato puree)
-2 tsp of tomato ketchup
-1 large pinch kasuri methi
-3/4 cup of milk
-3/4 cup of cream
-2 tbsp of butter or oil
+###INGREDIENTS:###
+- 2 cups of cubed paneer or tofu
+- 1 cup of sliced onions
+- 2 tsp of ginger garlic paste
+- 1 tbsp of coriander powder
+- 1 tsp of garam masala
+- 1 tsp of red chilli powder (adjust to your taste)
+- 1 tbsp of canned tomato paste (or 1 cup tomato puree)
+- 2 tsp of tomato ketchup
+- 1 large pinch kasuri methi
+- 3/4 cup of milk
+- 3/4 cup of cream
+- 2 tbsp of butter or oil
 
-INSTRUCTIONS:
+###INSTRUCTIONS:###
 
 1. Heat 2 tbsp oil in a pan and fry the paneer/tofu cubes until golden brown. Drain and set aside.
 2. In the same pan, add 1 more tbsp oil and fry the onions until golden brown.
@@ -190,6 +190,56 @@ INSTRUCTIONS:
 6. Open lid, add the fried paneer/tofu and the cream. Mix well and simmer for 3-4 mins.
 
 *Garnish with fresh coriander leaves and serve hot with nan, roti, pulao, or jeera rice*
+
+
+Goru Chikkudu kayya curry (with tamarind and jaggery)
+----------------------------------------------------
+
+*source: Kiranmayi and Krishna Priya Bhattaram (2014)*
+s
+###Ingredients:###
+- Goru Chikkudukayya
+- mustard seeds
+- urad dal
+- red chilies
+- turmuric
+- salt
+- tamarind
+- jaggery
+
+###Instructions:###
+1. Boil the chopped beans with turmeric and salt.
+2. Make the tadka -- add the mustard seeds to oil until they splatter. Then add the urad dal and dried red chilies.
+3. Add the beans. Once they're cooked through, add the tamarind and jaggery to taste.
+4. Eat eat eat (preferably with hot rice and ghee).
+
+
+Sundal
+------
+
+*source: Kiranmayi and Krishna Priya Bhattaram (2014)*
+
+###Ingredients:###
+
+- channa/yellow peas/pigeon peas/whatever
+- mustard seeds
+- green chlies
+- asafoetida
+- salt
+- curry leaves
+- dried grated coconut (optional)
+- shredded raw green mango (optional)
+
+###Instructions:###
+
+1. boil the channa/beans/whatever
+2. Make the tadka
+  - add the mustard seeds to oil until they splatter.
+  - Then add the asafoetida, curry leaves, green chilies, and optional coconut.
+3. Add the soaked/boiled channa.
+4. Add raw green mango, if desired.
+
+
 
 
 Non-Vegetarian

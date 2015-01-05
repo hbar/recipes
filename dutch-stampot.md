@@ -1,7 +1,11 @@
+---
+layout: recipe-group
+title: Dutch Stampot
+---
 
 Boerenkool
 ----------------------------------
-*source:Nadya Peek* 
+*source:Nadya Peek*
 
 ###Ingredients###
 - Potatoes
@@ -11,12 +15,11 @@ Boerenkool
 - Salt & Pepper
 
 ###Instructions###
-1. simmer potatoes along with sausage until soft potatoes are ready for mashing. 
+1. simmer potatoes along with sausage until soft potatoes are ready for mashing.
 2. Steam/simmer finely chopped kale
 3. Mash the potatoes with butter and milk until nice and creamy.
 4. Stir kale in with potatoes
 5. Serve potatoes and kale with sausage
-
 
 Zuurkool recept (Sauerkraut recipe)
 ----------------------------------

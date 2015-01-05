@@ -1,5 +1,7 @@
-Sauces and Spices
-=================
+---
+layout: recipe-group
+title: Sauces and Spices
+---
 
 Chili Oil:
 -----------

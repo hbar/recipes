@@ -1,7 +1,12 @@
+---
+layout: recipe-group
+title: Soups and Stews
+---
+
 Soups and Stews
 ===============
 
-Gumbo 
+Gumbo
 ---------
 *source: H. Barnard / Internetz*
 
@@ -35,7 +40,7 @@ Fancy pea soup
 -------------
 *source: N. Peek*
 
-Ingredients: 
+Ingredients:
 
 1. blend green peas, spinach, mint
 

@@ -1,5 +1,7 @@
-Slow Cooked Meats
-=================
+---
+layout: recipe-group
+title: Slow Cooked Meats
+---
 
 Simple bbq pork
 ----------------

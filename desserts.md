@@ -1,5 +1,7 @@
-Desserts:
-=========
+---
+layout: recipe-group
+title: Desserts
+---
 
 Tiramisu Cake
 -------------

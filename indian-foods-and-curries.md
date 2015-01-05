@@ -1,5 +1,7 @@
-Indian foods and curries
-========================
+---
+layout: recipe-group
+title: Indian Foods and Curries
+---
 
 Channa masala
 -----

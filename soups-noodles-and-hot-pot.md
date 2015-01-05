@@ -1,5 +1,7 @@
-Asian Soups, Stews, and Hotpot
-==============================
+---
+layout: recipe-group
+title: Asian Soups, Stews, and Hotpot
+---
 
 Noodly soup in less than 10 minutes
 ---------------------

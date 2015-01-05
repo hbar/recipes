@@ -1,5 +1,7 @@
-Baking
-======
+---
+layout: recipe-group
+title: Baking
+---
 
 Banana Bread
 ------------

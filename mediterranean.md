@@ -1,3 +1,8 @@
+---
+layout: recipe-group
+title: Mediterranean
+---
+
 Pasta sauces
 ============
 

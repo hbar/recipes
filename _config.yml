@@ -2,8 +2,8 @@
 title: Recipes
 description: >
   Collection of recipes.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://recipes.haroldbot.com" # the base hostname & protocol for your site
+baseurl: "/recipes" # the subpath of your site, e.g. /blog/
+url: "http://kiranbot.com/recipes" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

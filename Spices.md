@@ -11,16 +11,17 @@ Chili Oil:
 - Crushed red chili flakes
 - Garlic
 - Soy sauce
-- Salt
+- Black vinegar
+- Szechuan peppercorns (optional)
 
 ###Instructions:###
 1. Finely chop several cloves of garlic.
-2. Add garlic to a small pot and cover with soy sauce.
-3. Lightly simmer to remove water from soy sauce.
-4. When liquid is almost gone, add half a jar full of crushed chili flakes (use chili oil for measurement).
-5. Sprinkle with soy sauce and continue to heat for a few minutes.
-6. Add half a jar of olive oil. Add extra salt if desired (a teaspoon or so).
-7. Heat chili oil on low and stir for 15 minutes while watching to make sure chili and garlic are bubbling gently without burning.
+2. Add garlic to a small pot and cover with soy sauce and black vinegar.
+3. Lightly simmer to evaporate some of the liquid.
+4. Add half a jar full of crushed chili flakes (use chili oil jar for measurement).
+5. Moisten chili flakes with more soy sauce and black vinegar.
+6. Add 1-2 teaspoons of ground/crushed Szechuan peppercorns (optional) 
+7. Heat chili oil on low heat and stir for 10-15 minutes, watching to make sure chili and garlic are bubbling gently without burning.
 
 
 Karivepaku Podi  (Spiced Curry Leaf Powder):

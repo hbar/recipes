@@ -1,9 +1,9 @@
 Indian foods and curries
 ========================
 
-Chana masala
+Channa masala
 -----
-*source:kiranbot (2014)*
+*source 1: kiranbot (2014)*
 
 *source 2: [internetz](https://www.youtube.com/watch?v=pDWfDUi108U&feature=kp)*
 

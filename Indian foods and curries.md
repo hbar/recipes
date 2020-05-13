@@ -66,7 +66,7 @@ Sambar
 
 *Source: Kiranbot (2013)*
 
-###Ingredients and Instructions:###
+###Ingredients and Instructions:
 
 1. wash and soak the pappu (dal). Pressure cook it (2-3 whistles, for kandhi pappu, 1-2 for pesara pappu).
 
@@ -97,6 +97,23 @@ revisions:
 -- tomatoes go in with vegetables. about 1-2 roma, or 1 large one.
 also julienned onions with the sliced tomatoes.
 
+
+Sambar
+ *Source: Haroldbot (2020)*
+
+### Ingredients and Instructions
+
+1. 1 cup of toor dal + 1/4 tsp tumeric +  3 cup of water in instapot for 8 min
+
+2. fry in butter/oil: several curry leaves + mustard seeds + green chilis + dry chilis + minnu pappu (for crunch  bits)
+
+3. (optional) when mostly fried, add chopped shallot 
+
+4.  when everything is fried add chopped tomato and fry until slushy + tbsp sambar powder + 1/2 teaspoon kashmiri chili powder + paprika (optional for red color) 
+
+5. add dal + chopped carrots (and/or other veg) + chopped potates (optional) + extra water (3 cups) + tamarind
+
+6. simmer for 15+ min
 
 Raita 
 ------
